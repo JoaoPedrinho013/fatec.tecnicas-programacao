@@ -31,4 +31,4 @@ atividade-pratica-X/
     └── exercicio10.java
 ```
 
-> **Nota:** Onde `X` representa o número da atividade prática.
+> **Nota:** Onde `atividade-pratica-X` representa o nome da atividade prática.
