@@ -21,32 +21,3 @@
 9. Lista de Nomes: Peça ao usuário para inserir 5 nomes (um de cada vez). Após inserir todos os nomes, peça outro nome e use um loop for para percorrer a lista e verificar se o 6º(último) nome digitado está presente no array dos 5 nomes informados inicialmente.
 
 10. Senha Secreta: Defina uma senha secreta (por exemplo: "Java123"). Use um loop while para pedir ao usuário que insira a senha. Se a senha estiver incorreta, continue pedindo a senha e informe ao usuário que a tentativa foi inválida. Se ele acertar, saia do loop e imprima uma mensagem de sucesso.
-
-## Estrutura dos Arquivos
-
-Cada exercício está implementado em um arquivo Java separado:
-
-```
-atividade-pratica-1/
-├── README.md
-├── exercicio01/
-│   └── exercicio.java
-├── exercicio02/
-│   └── exercicio.java
-├── exercicio03/
-│   └── exercicio.java
-├── exercicio04/
-│   └── exercicio.java
-├── exercicio05/
-│   └── exercicio.java
-├── exercicio06/
-│   └── exercicio.java
-├── exercicio07/
-│   └── exercicio.java
-├── exercicio08/
-│   └── exercicio.java
-├── exercicio09/
-│   └── exercicio.java
-└── exercicio10/
-    └── exercicio.java
-```
