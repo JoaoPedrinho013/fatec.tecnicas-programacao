@@ -6,28 +6,29 @@ Cada atividade contém subpastas numeradas de exercícios, onde cada exercício 
 
 A estrutura padrão de cada atividade é a seguinte:
 
+```
 atividade-pratica-X/
 ├── README.md
 ├── exercicio01/
-│ └── exercicio01.java
+│   └── exercicio01.java
 ├── exercicio02/
-│ └── exercicio02.java
+│   └── exercicio02.java
 ├── exercicio03/
-│ └── exercicio03.java
+│   └── exercicio03.java
 ├── exercicio04/
-│ └── exercicio04.java
+│   └── exercicio04.java
 ├── exercicio05/
-│ └── exercicio05.java
+│   └── exercicio05.java
 ├── exercicio06/
-│ └── exercicio06.java
+│   └── exercicio06.java
 ├── exercicio07/
-│ └── exercicio07.java
+│   └── exercicio07.java
 ├── exercicio08/
-│ └── exercicio08.java
+│   └── exercicio08.java
 ├── exercicio09/
-│ └── exercicio09.java
+│   └── exercicio09.java
 └── exercicio10/
-└── exercicio10.java
+    └── exercicio10.java
+```
 
-> Onde `X` representa o número da atividade prática.
-
+> **Nota:** Onde `X` representa o número da atividade prática.
