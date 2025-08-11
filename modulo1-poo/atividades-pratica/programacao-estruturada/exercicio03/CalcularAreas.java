@@ -18,14 +18,14 @@ public class CalcularAreas {
         numCalculo = scan.nextInt();
 
         if (numCalculo == 1) {
-            System.out.println("----------Calcular Área de um Retângulo----------");
+            System.out.println("----------Calcular Área de um Quadrado----------");
             System.out.println("");
             System.out.print("Qual tamanho da base em cm? ");
             base = scan.nextDouble();
             System.out.print("Qual tamanho da altura em cm? ");
             altura = scan.nextDouble();
             System.out.println("");
-            System.out.println("A Área desse retângulo é de " + (base*altura) + "cm²");
+            System.out.println("A Área desse quadrado é de " + (base*altura) + "cm²");
 
 
         } else if (numCalculo == 2){
