@@ -20,7 +20,7 @@ public class ListaNome {
     public static void verificarName() {
         Scanner scan = new Scanner(System.in);
         String n;
-        int somador=0;
+        boolean verificador=false;
         String[] lista = addNames();
 
         System.out.println("Digite um nome para ver se está junto com os demais: ");
@@ -28,11 +28,11 @@ public class ListaNome {
         
         for (String nome : lista) {
             if(nome.equals(n.toLowerCase())) {
-                somador += 1;
+                verificador = true;
             }
         }
 
-        if (somador != 0){
+        if (verificador != false){
             System.out.println("Existe esse nome na Lista!");
         } else {
             System.out.println("Não Existe esse nome na Lista!");
