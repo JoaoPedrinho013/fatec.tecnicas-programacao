@@ -4,7 +4,7 @@ Este repositório contém todos os exercícios e trabalhos desenvolvidos na disc
 
 ## Estrutura do Repositório
 
-O conteúdo está dividido em **dois módulos**, cada um representando uma parte da disciplina.  
+O conteúdo está dividido em **dois módulos**, que correspondem aos **dois semestres** da disciplina. 
 Dentro de cada módulo, estão organizados os trabalhos e atividades práticas passadas pelo professor.
 
 ```
@@ -13,7 +13,7 @@ modulo-1/
 │   ├── atividade-pratica-1/
 │   ├── atividade-pratica-2/
 │   └── ...
-└── trabalhos/
+└── trabalhos/    
     ├── trabalho-1/
     ├── trabalho-2/
     └── ...
