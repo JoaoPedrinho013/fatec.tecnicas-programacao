@@ -9,24 +9,32 @@ Dentro de cada módulo, estão organizados os trabalhos e atividades práticas p
 
 ```
 modulo-1/
+├── aulas/
+│ ├── aula-1/
+│ ├── aula-2/
+│ └── ...
 ├── atividades/
-│   ├── atividade-pratica-1/
-│   ├── atividade-pratica-2/
-│   └── ...
-└── trabalhos/    
-    ├── trabalho-1/
-    ├── trabalho-2/
-    └── ...
+│ ├── atividade-pratica-1/
+│ ├── atividade-pratica-2/
+│ └── ...
+└── trabalhos/
+├── trabalho-1/
+├── trabalho-2/
+└── ...
 
 modulo-2/
+├── aulas/
+│ ├── aula-1/
+│ ├── aula-2/
+│ └── ...
 ├── atividades/
-│   ├── atividade-pratica-1/
-│   ├── atividade-pratica-2/
-│   └── ...
+│ ├── atividade-pratica-1/
+│ ├── atividade-pratica-2/
+│ └── ...
 └── trabalhos/
-    ├── trabalho-1/
-    ├── trabalho-2/
-    └── ...
+├── trabalho-1/
+├── trabalho-2/
+└── ...
 ```
 
 ---
